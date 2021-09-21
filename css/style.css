@@ -39,7 +39,7 @@ body {
 .background {
   position: relative;
   height: 100vh;
-  background-image: url("/img/photo_2021-09-22_01-37-18.jpg");
+  background-image: url("./img/photo_2021-09-22_01-37-18.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
